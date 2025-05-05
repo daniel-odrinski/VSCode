@@ -1,0 +1,36 @@
+{
+    "editor.cursorSmoothCaretAnimation": "on",
+    "files.autoSave": "onWindowChange",
+    "remote.defaultExtensionsIfInstalledLocally": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "GitHub.vscode-pull-request-github"
+    ],
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Doom Emacs",
+    "editor.fontFamily": "JetBrainsMono Nerd Font,Menlo, Monaco, 'Courier New', monospace",
+    "go.lintTool": "golangci-lint-v2",
+    "go.lintFlags": [
+        "--path-mode=abs",
+        "--fast-only"
+    ],
+    "editor.formatOnSaveMode": "file",
+    "terminal.integrated.fontLigatures.enabled": true,
+    "editor.fontLigatures": true,
+    "go.inlayHints.parameterNames": true,
+    "go.inlayHints.constantValues": true,
+    "go.inlayHints.compositeLiteralFields": true,
+    "go.lintOnSave": "workspace",
+    "terminal.integrated.fontSize": 14,
+    "editor.formatOnSave": true,
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "vim.enableNeovim": true,
+    "vim.hlsearch": true,
+    "vim.shell": "/bin/zsh",
+    "vim.useSystemClipboard": true,
+    "vim.visualstar": true
+}
