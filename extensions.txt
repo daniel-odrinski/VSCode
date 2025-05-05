@@ -1,0 +1,12 @@
+# Git
+code --install-extension eamodio.gitlens
+# Code completion
+code --install-extension github.copilot
+code --install-extension github.copilot-chat
+# Language support
+code --install-extension golang.go
+code --install-extension rogalmic.bash-debug
+# Themes
+code --install-extension stevesevets.doom-emacs-theme
+# Vim
+code --install-extension vscodevim.vim
